@@ -1,4 +1,4 @@
-## ひびきだよん
+## ひびきだよん，未来はきっと明るいこと間違いなし！
 
 <!--
 **hibikiuyama/hibikiuyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
